@@ -23,7 +23,7 @@ Crystal bindings for the OpenCC (Open Chinese Convert) library, providing Tradit
    ```yaml
    dependencies:
      opencc:
-       path: lib/opencc
+       github: chi-vi/opencc.cr
    ```
 
 ## Usage
